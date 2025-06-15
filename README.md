@@ -1,7 +1,7 @@
 
 # 🍽️ NYC Dinner Spot Finder
 
-Project Overview
+# Project Overview
 This project involved analyzing a dataset of New York City restaurants to identify the best dinner options using SQL. The dataset, named nomnom, contains information such as restaurant names, neighborhoods, cuisine types, customer reviews, price ranges, and health inspection grades.
 
 Completed as part of a Codecademy SQL course, the project’s primary objective was to strengthen my SQL skills by working with real-world data. The analysis focused on helping users discover top-rated NYC dinner spots by filtering restaurants based on factors like high customer ratings, preferred cuisines, and health inspection results.
