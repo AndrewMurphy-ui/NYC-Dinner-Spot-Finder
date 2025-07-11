@@ -1,5 +1,5 @@
 
-# 🍽️ NYC Dinner Spot Finder
+# 🍽️ NYC Dinner Spot Finder 
 
 # Project Overview 📊
 This project involved analyzing a dataset of New York City restaurants to identify the best dinner options using SQL. The dataset, named nomnom, contains information such as restaurant names, neighborhoods, cuisine types, customer reviews, price ranges, and health inspection grades.
