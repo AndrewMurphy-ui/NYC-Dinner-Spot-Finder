@@ -48,4 +48,5 @@ SELECT name,
   WHEN review > 2 THEN 'Fair'
   ELSE 'Poor'
  END AS 'Review'
+
 FROM nomnom;
